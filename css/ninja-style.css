@@ -67,21 +67,21 @@ h1, h2, h3, h4, h5, h6 {
 	width: initial;
 }
 .top-pic {
-	height: 700px;
+	height: 100vh;
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/01/65/9b/01659bddb6bc83e42857804e3eb2ad67.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 .mid-pic {
-	height: 700px;
+	height: 100vh;
 	background-image: url("http://wallpoper.com/images/00/27/33/69/abstract-beach_00273369.png");
 	background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 .low-pic {
-	height: 700px;
+	height: 100vh;
 	background-image: url("http://thewowstyle.com/wp-content/uploads/2015/01/Black-and-White-Photography-Wallpaper.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
